@@ -1,0 +1,5 @@
+{
+  "name": "ResQAI",
+  "description": "ResQAI: Know the Risk. Act Fast. Real-time disaster preparedness dashboard with earthquake tracking and weather monitoring.",
+  "requestFramePermissions": ["geolocation"]
+}
